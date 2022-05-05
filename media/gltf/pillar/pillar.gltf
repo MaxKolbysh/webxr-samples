@@ -1,6 +1,6 @@
 {
     "asset" : {
-        "generator" : "Khronos glTF Blender I/O v1.7.33",
+        "generator" : "Khronos glTF Blender I/O v1.8.19",
         "version" : "2.0"
     },
     "scene" : 0,
@@ -34,9 +34,9 @@
             "name" : "color pillar",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0,
+                    0.7574251890182495,
                     0.8000000715255737,
-                    0.0043289936147630215,
+                    0.24090805649757385,
                     1
                 ],
                 "metallicFactor" : 0,
