@@ -31,12 +31,12 @@
     "materials" : [
         {
             "doubleSided" : true,
-            "name" : "color pillar",
+            "name" : "Material",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.7574251890182495,
-                    0.8000000715255737,
-                    0.24090805649757385,
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
                     1
                 ],
                 "metallicFactor" : 0,
